@@ -6,7 +6,10 @@
 
 ## 🚀 Live Preview
 
-🌐 **[View Portfolio on Vercel](https://your-vercel-link.vercel.app)**  
+🌐 **[View Portfolio on Vercel](https://devfolio-fawn-seven.vercel.app/)**  
+
+**[View  Portfolio on Netlify](https://devfolio-ankit.netlify.app/)**
+
 📁 Resume download link will be enabled after PDF upload
 
 ---
@@ -38,7 +41,7 @@
 - 🎨 Styled using **CSS Modules**  
 - ⚡ Smooth animations using **Framer Motion**  
 - 🧩 Clean folder structure, reusable components  
-- 🌐 Deployed to **Vercel** *(also Netlify ready)*
+- 🌐 Deployed to **Vercel** **Netlify**
 
 ---
 
@@ -83,7 +86,7 @@ Once `Ankit-Kumar-Resume.pdf` is placed inside `/public/`, it will be active.
 
 **Ankit Kumar**  
 💼 GitHub: [@Anku-OO7](https://github.com/Anku-OO7)  
-🌐 Portfolio: [your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)
+🌐 Portfolio: [my-vercel-link.vercel.app](https://devfolio-fawn-seven.vercel.app/), [my-netify-link.netlify.app](https://devfolio-ankit.netlify.app/)
 
 ---
 

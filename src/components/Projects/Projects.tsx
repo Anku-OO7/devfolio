@@ -28,8 +28,8 @@ const projectList = [
         title: "Devfolio",
         description: "My personal cinematic + professional portfolio built with React, Vite and custom mode toggles.",
         techStack: ["React", "Vite", "TypeScript", "CSS Modules"],
-        github: "https://github.com/Anku-OO7/",
-        liveDemo: "https://skillswap-v1.vercel.app/",
+        github: "https://github.com/Anku-OO7/devfolio",
+        liveDemo: "https://devfolio-fawn-seven.vercel.app/",
         media: "/assets/devfolio.gif",
         features: ["Dual Mode Toggle", "Responsive UI", "Professional/Cinematic Modes"],
         roadmap: ["Dark Mode Polish", "Custom Page Builder", "Animations Overhaul"]
