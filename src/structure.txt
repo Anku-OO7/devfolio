@@ -1,0 +1,49 @@
+Folder PATH listing for volume Windows
+Volume serial number is 46C8-E9DC
+C:.
+¦   App.css
+¦   App.tsx
+¦   index.css
+¦   main.tsx
+¦   structure.txt
+¦   vite-env.d.ts
+¦   
++---assets
+¦       luffyPunch.png
+¦       luffyStand.png
+¦       react.svg
+¦       small luffy run.png
+¦       small luffy.png
+¦       
++---components
+¦   ¦   ModeOverlay.module.css
+¦   ¦   ModeOverlay.tsx
+¦   ¦   ProjectCard.module.css
+¦   ¦   ProjectCard.tsx
+¦   ¦   Projects.module.css
+¦   ¦   Projects.tsx
+¦   ¦   
+¦   +---FallingTags
+¦   ¦       FallingTags.module.css
+¦   ¦       FallingTags.tsx
+¦   ¦       
+¦   +---Hero
+¦   ¦       Hero.module.css
+¦   ¦       Hero.tsx
+¦   ¦       
+¦   +---Navbar
+¦           Navbar.module.css
+¦           Navbar.tsx
+¦           
++---context
+¦       ModeContext.tsx
+¦       
++---pages
+¦       About.tsx
+¦       Contact.tsx
+¦       Home.tsx
+¦       ProjectsPage.tsx
+¦       
++---styles
+        globals.css
+        

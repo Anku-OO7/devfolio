@@ -1,0 +1,79 @@
+.card {
+    background-color: #1a1e2e;
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 12px rgba(0, 191, 255, 0.1);
+    transition: transform 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    min-height: 300px;
+}
+
+.card:hover {
+    transform: translateY(-4px);
+}
+
+.media img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+    object-fit: cover;
+}
+
+.title {
+    font-size: 1.5rem;
+    color: #00bfff;
+    margin-bottom: 0.5rem;
+}
+
+.desc {
+    font-size: 1rem;
+    color: #ccc;
+    margin-bottom: 1rem;
+}
+
+.techStack {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 1rem 0;
+}
+
+.techStack span {
+    background-color: #223;
+    color: #00e6e6;
+    padding: 0.4rem 0.8rem;
+    border-radius: 8px;
+    font-size: 0.85rem;
+}
+
+.links {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.links a {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    background-color: #00bfff;
+    color: #000;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: bold;
+    transition: background 0.3s ease;
+}
+
+.links a:hover {
+    background-color: #009ccc;
+    color: #fff;
+}
+
+.moreBtn:hover {
+    text-decoration: underline;
+}
