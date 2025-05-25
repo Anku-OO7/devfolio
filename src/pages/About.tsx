@@ -36,7 +36,7 @@ const About: React.FC = () => {
                     </div>
 
                     <div>
-                        <a href='/Ankit-Kumar-Resume.pdf' download className='btn'>
+                        <a href='/Ankit-Kumar-Resume.pdf' download className='btn' target='_blank' rel='noopener noreferrer'>
                             Download Resume
                         </a>
                     </div>
